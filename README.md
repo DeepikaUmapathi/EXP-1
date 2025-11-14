@@ -37,18 +37,21 @@ b.  KCL:
 4.   Switch on the RPS.
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
-7.   Take readings for different values of input voltage and tabulate them. 
+7.   Take readings for different values of input voltage and tabulate them.
+   $$V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega}$$
 CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
+
 
 
 a.   KVL:
  
+$$![BEEE 1](https://github.com/user-attachments/assets/07fa3335-2621-4c03-8587-6daf9c70dc77)$$
 
 
 b.  KCL:
- 
+$$![BEEE 2](https://github.com/user-attachments/assets/829b058c-cb48-4a3b-bc68-a8da58757a32)$$
+
 
 Calculation:
 
